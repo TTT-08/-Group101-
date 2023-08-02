@@ -37,3 +37,4 @@ def rho_attack():
 ```
 ## 3 运行结果
 我们很容易就能找到相应的碰撞：
+![](https://img1.imgtp.com/2023/08/02/VfyHNJVi.png)

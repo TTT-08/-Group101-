@@ -2,6 +2,7 @@
 ## 1 原理分析
 利用生日攻击找n比特碰撞的原像​ 对于任意消息（这里只考虑数字字符串，其他字符串也可以转化到数字字符串）M，我们计算H=SM3(M)，如果我们只考虑前n比特（下文中的相等都是指前n比特），那么在前0-2^n范围内，至少存在一组碰撞的概率几乎是100%。
 
+<<<<<<< HEAD
 那么对于特定的消息M，如何利用生日攻击去找到这个碰撞像呢？
 
 我们可以任取两个消息m1，m2，计算h=SM3(abs(M1-M2)，直到得到H= h
@@ -55,14 +56,13 @@ def brithday_attack():
 由于SM3输出为256比特，而个人笔记本不具备足够的算力，因而我尝试通过减少输出比特进行测试，最终成功攻击输出值为24比特的SM3函数。
 
 其中16bit运行成功如下（由于有较多碰撞，在这里只列举了一部分）：
-
-![58fd0d0d8b4415dd676679afe1d8790a](https://github.com/TTT-08/-Group101-/assets/139055388/e0294ef7-1eb6-4967-bb7e-508ae69d0bce)
+![](https://img1.imgtp.com/2023/08/02/JvarLsS5.png)
 
 20bit运行成功如下：
-![dfdceeedd0f7ab7e670dd6bda6499bbf.png](../_resources/dfdceeedd0f7ab7e670dd6bda6499bbf.png)
+![](https://img1.imgtp.com/2023/08/02/ODNsXZPU.png)
 
 24bit运行成功如下：
-![638cefeb0b96d7fb28c1bf3a8c9bdd96.png](../_resources/638cefeb0b96d7fb28c1bf3a8c9bdd96.png)
+![](https://img1.imgtp.com/2023/08/02/AM1WVk2S.png)
 
 28bit运行成功如下：
-![7e877aa137b2efada6ec97c43856af18.png](../_resources/7e877aa137b2efada6ec97c43856af18.png)
+![](https://img1.imgtp.com/2023/08/02/NWQhp9yz.png)

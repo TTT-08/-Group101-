@@ -55,7 +55,8 @@ def brithday_attack():
 由于SM3输出为256比特，而个人笔记本不具备足够的算力，因而我尝试通过减少输出比特进行测试，最终成功攻击输出值为24比特的SM3函数。
 
 其中16bit运行成功如下（由于有较多碰撞，在这里只列举了一部分）：
-![Alt text](58fd0d0d8b4415dd676679afe1d8790a.png)
+
+![58fd0d0d8b4415dd676679afe1d8790a](https://github.com/TTT-08/-Group101-/assets/139055388/e0294ef7-1eb6-4967-bb7e-508ae69d0bce)
 
 20bit运行成功如下：
 ![dfdceeedd0f7ab7e670dd6bda6499bbf.png](../_resources/dfdceeedd0f7ab7e670dd6bda6499bbf.png)

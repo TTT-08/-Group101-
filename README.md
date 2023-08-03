@@ -11,13 +11,13 @@
 Github账户地址：https://github.com/TTT-08
 
 ## 已经完成的项目
-* Project1: implement the naïve birthday attack of reduced SM3
-* Project2: implement the Rho method of reduced SM3
-* Project3: implement length extension attack for SM3, SHA256, etc.
-* Project4: do your best to optimize SM3 implementation (software)
-* Project5: Impl Merkle Tree following RFC6962
-* Project6: impl this protocol with actual network communication
-* Project7: Try to Implement this scheme
+* Project1: implement the naïve birthday attack of reduced SM3（SM3生日攻击
+* Project2: implement the Rho method of reduced SM3（SM3的Rho攻击
+* Project3: implement length extension attack for SM3, SHA256, etc.（长度拓展攻击
+* Project4: do your best to optimize SM3 implementation (software)（软件实现SM3加速
+* Project5: Impl Merkle Tree following RFC6962（Merkle Tree的实现
+* Project6: impl this protocol with actual network communication（ Merkle Tree在实际通信中的应用
+* Project7: Try to Implement this scheme（泛哈希链的实现
 * Project8: AES impl with ARM instruction
 * Project9: AES / SM4 software implementation
 * Project10: report on the application of this deduce technique in Ethereum with ECDSA

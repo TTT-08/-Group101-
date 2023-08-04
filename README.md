@@ -32,7 +32,6 @@ Github账户地址：https://github.com/TTT-08
 * Project17：比较Firefox和谷歌的记住密码插件的实现区别
 * Project18: send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself
 * Project19: forge a signature to pretend that you are Satoshi
-* Project20: ECMH PoC
 * Project21: Schnorr Bacth
 * Project22: research report on MPT
 

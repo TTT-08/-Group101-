@@ -10,6 +10,8 @@
 
 Github账户地址：https://github.com/TTT-08
 
+本次实验完成了所有21个项目，所有项目均为自己完成（第20个项目后来取消了）
+
 ## 已经完成的项目
 * Project1: implement the naïve birthday attack of reduced SM3（SM3生日攻击
 * Project2: implement the Rho method of reduced SM3（SM3的Rho攻击
@@ -33,3 +35,17 @@ Github账户地址：https://github.com/TTT-08
 * Project20: ECMH PoC
 * Project21: Schnorr Bacth
 * Project22: research report on MPT
+
+# 软件环境
+
+**硬件环境：**
+处理器：inter(R)Core(TM)i7-10750H CPU 64 位操作系统（笔者）
+内存：16GB （笔者）
+
+**软件环境：**
+操作系统：Windows 10 专业版 x64
+Python 解释器：PyCharm Community Edition 2022.2.1
+C++解释器：Visual Studio 2022
+
+# 运行指导
+无特殊说明，项目均可直接运行。

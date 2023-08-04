@@ -160,3 +160,6 @@ MTP有许多具体的应用，下面列举了一部分：
 7. 智能合约状态存储：类似于以太坊账户，智能合约也有状态，包括合约代码和存储数据。MPT可以被用来存储智能合约的状态，以实现高效的状态管理和验证。
 
 9. 证书路径验证：在加密领域，MPT可以被用来存储和验证数字证书的证书路径。这可以帮助快速验证数字证书的有效性，而无需查看整个证书链。
+
+## 参考文献
+https://blog.csdn.net/qq_40713201/article/details/124486307?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165897398016782390545065%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165897398016782390545065&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-124486307-null-null.142^v35^experiment_2_v1,185^v2^control&utm_term=MPT&spm=1018.2226.3001.4187

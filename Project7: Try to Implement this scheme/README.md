@@ -18,7 +18,6 @@
 ```
 if __name__ == '__main__':
     hash_chain = HashChain()
-
     print("添加创世块到泛哈希链")
     print("创世块哈希:", hash_chain.chain[0].hash)
 
